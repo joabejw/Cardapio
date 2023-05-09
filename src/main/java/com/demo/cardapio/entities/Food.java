@@ -19,4 +19,5 @@ public class Food {
     private String title;
     private String image;
     private Double price;
+
 }
